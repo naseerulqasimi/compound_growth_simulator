@@ -21,10 +21,6 @@ calculation into a repeatable program.
 - Checks whether the plan reaches a user-defined target amount
 - Reports the cumulative annual growth rate (CAGR) of the principal for both scenarios
 
-## Limitations
-- It only calculates CAGR on "Principal Amount" entered
-- Data types must be correct
-
 ## How to Run It
 
 This is a Python script, run from the terminal:
@@ -169,5 +165,9 @@ TOTAL GROWTH IN WEALTH Rs. 6113232.57
 CUMULATIVE ANNUAL GROWTH RATE OF THE PRINCIPAL AMOUNT IS =15.70%
 THIS PLAN ACHIEVES YOUR TARGET.
 ```
+## Limitations
+- It only calculates CAGR on "Principal Amount" entered
+- Data types must be correct
+
 ## Author
 Muhammad Naseer
